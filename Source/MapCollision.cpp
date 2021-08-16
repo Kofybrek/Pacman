@@ -1,4 +1,5 @@
 #include <array>
+#include <cmath>
 
 #include "Headers/Global.hpp"
 #include "Headers/MapCollision.hpp"

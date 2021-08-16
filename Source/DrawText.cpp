@@ -1,3 +1,4 @@
+#include <cmath>
 #include <SFML/Graphics.hpp>
 
 #include "Headers/DrawText.hpp"
