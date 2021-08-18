@@ -234,7 +234,7 @@ void Ghost::update(unsigned char i_level, std::array<std::array<Cell, MAP_HEIGHT
 
 		for (unsigned char a = 0; a < 4; a++)
 		{
-			//Ghosts can't turn back! (Unless they really have to)
+			//Gohsts can't turn back! (Unless they really have to)
 			if (a == (2 + direction) % 4)
 			{
 				continue;
